@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1667355078 source:c:\users\mi pc\desktop\laboratorio 1\prueba\main.cpp
+	"funciones.h"
+	"rlutil.h"
+
+1667354984 source:c:\users\mi pc\desktop\laboratorio 1\prueba\funciones.cpp
+	"funciones.h"
+	"rlutil.h"
+
+1667355023 c:\users\mi pc\desktop\laboratorio 1\prueba\funciones.h
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<string>
+
+1667263386 c:\users\mi pc\desktop\laboratorio 1\prueba\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668817052 source:c:\users\mi pc\desktop\laboratorio 1\parcial 2 git\proyecto-cardjitsu\proyecto-cardjitsu\funciones.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1668800063 c:\users\mi pc\desktop\laboratorio 1\parcial 2 git\proyecto-cardjitsu\proyecto-cardjitsu\funciones.h
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+
+1667263386 c:\users\mi pc\desktop\laboratorio 1\parcial 2 git\proyecto-cardjitsu\proyecto-cardjitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668800063 source:c:\users\mi pc\desktop\laboratorio 1\parcial 2 git\proyecto-cardjitsu\proyecto-cardjitsu\main.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1668795895 source:e:\facultad\utn\materias\laboratorio i\cuatrimestre actual\proyecto-cardjitsu\proyecto-cardjitsu\proyecto-cardjitsu\funciones.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1668795895 e:\facultad\utn\materias\laboratorio i\cuatrimestre actual\proyecto-cardjitsu\proyecto-cardjitsu\proyecto-cardjitsu\funciones.h
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+
+1667357248 e:\facultad\utn\materias\laboratorio i\cuatrimestre actual\proyecto-cardjitsu\proyecto-cardjitsu\proyecto-cardjitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668745922 source:e:\facultad\utn\materias\laboratorio i\cuatrimestre actual\proyecto-cardjitsu\proyecto-cardjitsu\proyecto-cardjitsu\main.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1668770210 source:c:\users\aleja\onedrive\escritorio\juego\proyecto-cardjitsu\proyecto-cardjitsu\funciones.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1668780346 c:\users\aleja\onedrive\escritorio\juego\proyecto-cardjitsu\proyecto-cardjitsu\funciones.h
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+
+1667357770 c:\users\aleja\onedrive\escritorio\juego\proyecto-cardjitsu\proyecto-cardjitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668770210 source:c:\users\aleja\onedrive\escritorio\juego\proyecto-cardjitsu\proyecto-cardjitsu\main.cpp
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<ctime>
+	<array>
+	<map>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
